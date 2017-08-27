@@ -1,4 +1,3 @@
-<!-- https://github.com/npm/npm/issues/13461 -->
 <template>
   <div id="app">
     <div class="acoder codeMonkey" id="codeMonkey" v-on:click="letCode">
