@@ -16,11 +16,11 @@
 </template>
 
 <script>
-import childComponent from './components/childComponent.vue'
+// import childComponent from './components/childComponent.vue'
 export default {
   name: 'app',
   components: {
-    childComponent
+    // childComponent
   },
   //// 复用组件时注释
   data:()=>{
@@ -64,14 +64,6 @@ export default {
 </script>
 
 <style>
-/*#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}*/
 .acoder{
   height: 100px;
   width: 700px;
